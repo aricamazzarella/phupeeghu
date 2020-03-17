@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dieghaiwa.ullhandel.no/sitemap.xml
